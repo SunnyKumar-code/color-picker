@@ -1,6 +1,7 @@
 
 .mainContainer{
     width: 100%;
+    cursor: pointer;
 }
 .innerDiv{
     max-width: 80%;
