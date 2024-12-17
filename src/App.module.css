@@ -1,0 +1,11 @@
+
+.mainContainer{
+    width: 100%;
+}
+.innerDiv{
+    max-width: 80%;
+    margin: 20px auto;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
